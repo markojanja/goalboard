@@ -1,15 +1,16 @@
-#Flask goal borad
-###Simple todo app that performs basic CRUD operations
+# Flask goal borad
 
-####Tools used to build this app:
+## Simple todo app that performs basic CRUD operations
 
--Python 3.8.5
+#### Tools used to build this app:
 
--Flask
+- Python 3.8.5
 
--Flask-SQLAlchemy
+- Flask
 
--HTML/CSS
+- Flask-SQLAlchemy
 
--Bootstrap
+- HTML/CSS
+
+- Bootstrap
 
